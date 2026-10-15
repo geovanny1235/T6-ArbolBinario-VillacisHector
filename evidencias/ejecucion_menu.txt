@@ -1,0 +1,140 @@
+
+========== ARBOL BINARIO ==========
+1. Crear el arbol inicial
+2. Visualizar el arbol
+3. Consultar numero de nodos
+4. Consultar numero de hojas
+5. Consultar altura
+6. Consultar grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+Elige una opcion (1-8): Numero de nodos: 0
+
+========== ARBOL BINARIO ==========
+1. Crear el arbol inicial
+2. Visualizar el arbol
+3. Consultar numero de nodos
+4. Consultar numero de hojas
+5. Consultar altura
+6. Consultar grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+Elige una opcion (1-8): Altura en aristas: -1
+
+========== ARBOL BINARIO ==========
+1. Crear el arbol inicial
+2. Visualizar el arbol
+3. Consultar numero de nodos
+4. Consultar numero de hojas
+5. Consultar altura
+6. Consultar grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+Elige una opcion (1-8): Arbol inicial creado correctamente.
+
+========== ARBOL BINARIO ==========
+1. Crear el arbol inicial
+2. Visualizar el arbol
+3. Consultar numero de nodos
+4. Consultar numero de hojas
+5. Consultar altura
+6. Consultar grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+Elige una opcion (1-8): UNIVERSIDAD
+├── FISEI
+│   ├── SOFTWARE
+│   │   ├── NIVEL1
+│   │   └── NIVEL3
+│   └── TI
+└── DIDE
+    ├── INVEST.
+    └── VINCULACIÓN
+
+========== ARBOL BINARIO ==========
+1. Crear el arbol inicial
+2. Visualizar el arbol
+3. Consultar numero de nodos
+4. Consultar numero de hojas
+5. Consultar altura
+6. Consultar grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+Elige una opcion (1-8): Numero de nodos: 9
+
+========== ARBOL BINARIO ==========
+1. Crear el arbol inicial
+2. Visualizar el arbol
+3. Consultar numero de nodos
+4. Consultar numero de hojas
+5. Consultar altura
+6. Consultar grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+Elige una opcion (1-8): Numero de hojas: 5
+
+========== ARBOL BINARIO ==========
+1. Crear el arbol inicial
+2. Visualizar el arbol
+3. Consultar numero de nodos
+4. Consultar numero de hojas
+5. Consultar altura
+6. Consultar grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+Elige una opcion (1-8): Altura en aristas: 3
+
+========== ARBOL BINARIO ==========
+1. Crear el arbol inicial
+2. Visualizar el arbol
+3. Consultar numero de nodos
+4. Consultar numero de hojas
+5. Consultar altura
+6. Consultar grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+Elige una opcion (1-8): Escribe el nombre del nodo: Grado de FISEI: 2
+
+========== ARBOL BINARIO ==========
+1. Crear el arbol inicial
+2. Visualizar el arbol
+3. Consultar numero de nodos
+4. Consultar numero de hojas
+5. Consultar altura
+6. Consultar grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+Elige una opcion (1-8): Escribe el nombre del nodo: Grado de SOFTWARE: 2
+
+========== ARBOL BINARIO ==========
+1. Crear el arbol inicial
+2. Visualizar el arbol
+3. Consultar numero de nodos
+4. Consultar numero de hojas
+5. Consultar altura
+6. Consultar grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+Elige una opcion (1-8): Escribe el nombre del nodo: NIVEL1 SI es una hoja.
+
+========== ARBOL BINARIO ==========
+1. Crear el arbol inicial
+2. Visualizar el arbol
+3. Consultar numero de nodos
+4. Consultar numero de hojas
+5. Consultar altura
+6. Consultar grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+Elige una opcion (1-8): Escribe el nombre del nodo: FISEI NO es una hoja.
+
+========== ARBOL BINARIO ==========
+1. Crear el arbol inicial
+2. Visualizar el arbol
+3. Consultar numero de nodos
+4. Consultar numero de hojas
+5. Consultar altura
+6. Consultar grado de un nodo
+7. Verificar si un nodo es hoja
+8. Salir
+Elige una opcion (1-8): Gracias por utilizar el programa.

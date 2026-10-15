@@ -1,0 +1,9 @@
+==== CASOS DE PRUEBA OBLIGATORIOS ====
+[OK] Arbol vacio: 0 nodos, 0 hojas y altura -1
+[OK] Arbol con solo raiz: 1 nodo, 1 hoja y altura 0
+[OK] Arbol inicial: 9 nodos, 5 hojas y altura 3
+[OK] Grado de FISEI = 2 y grado de SOFTWARE = 2
+Mensaje esperado: El hijo izquierdo de FISEI ya esta ocupado.
+[OK] Posicion ocupada: insercion rechazada, 9 nodos conservados
+[OK] NIVEL1 es hoja; SOFTWARE no es hoja
+TODAS LAS PRUEBAS PASARON.
