@@ -44,8 +44,12 @@ T6-ArbolBinario-VillacisHector/
 │       └── Main.java
 ├── evidencias/
 │   ├── ejecucion_menu.txt
-│   └── resultados_pruebas.txt
+│   ├── resultados_pruebas.txt
+│   ├── 01_arbol_completo.png
+│   ├── 02_casos_prueba.png
+│   └── 03_grado_software.png
 ├── README.md
+├── INFORME_EVIDENCIAS.md
 └── .gitignore
 ```
 
@@ -137,16 +141,65 @@ Para el PDF de Moodle, adjuntar **capturas reales tomadas en Visual Studio Code*
 
 Añadir el enlace público correcto al repositorio y responder las tres preguntas de reflexión. Existe una plantilla PDF aparte para completar antes de subirla a Moodle.
 
-## 10. Subida a GitHub (guía para construir el historial mientras se desarrolla)
 
-1. Crear en GitHub un repositorio **público** llamado `T6-ArbolBinario-ApellidoNombre` (ajustar apellido y nombre).
-2. Clonar o vincular el proyecto local al repositorio.
-3. Hacer un **primer commit** después de completar `Nodo.java`: `git add src/modelo/Nodo.java` y `git commit -m "Implementar nodo generico con grado y hojas"`.
-4. Hacer un **segundo commit** después de completar `ArbolBinario.java`: `git add src/negocio/ArbolBinario.java` y `git commit -m "Agregar construccion y operaciones recursivas del arbol"`.
-5. Hacer un **tercer commit** al terminar `Main.java`, README y pruebas: `git add src/app/Main.java README.md evidencias .gitignore` y `git commit -m "Implementar menu, pruebas y documentacion"`.
-6. Finalmente ejecutar `git push -u origin main` (usar el nombre de rama correspondiente).
+### Capturas de la ejecución
 
-**Importante:** el historial debe reflejar el trabajo individual real. Los pasos anteriores son una propuesta de cómo separar el desarrollo en avances significativos; no reemplazan el proceso de programación realizado por el estudiante.
+A continuación, se presentan las evidencias del funcionamiento del programa y los resultados obtenidos durante las pruebas.
+
+#### 1. Visualización del árbol binario
+
+El programa permite visualizar en consola la estructura jerárquica de los departamentos universitarios, mostrando la relación entre los nodos padres e hijos.
+
+![Árbol binario completo](evidencias/01_arbol_completo.png)
+
+#### 2. Casos de prueba obligatorios
+
+Se realizaron las pruebas establecidas en la actividad para verificar el correcto funcionamiento del árbol binario.
+
+Se comprobó que:
+- El árbol vacío tiene 0 nodos y altura -1.
+- El árbol con una raíz tiene 1 hoja y altura 0.
+- El árbol inicial tiene 9 nodos, 5 hojas y altura 3.
+- Los nodos FISEI y SOFTWARE tienen grado 2.
+- El programa rechaza la inserción en una posición ocupada.
+- Se identifican correctamente los nodos hoja.
+
+Todas las pruebas se ejecutaron correctamente.
+
+![Casos de prueba](evidencias/02_casos_prueba.png)
+
+#### 3. Consulta del grado de un nodo
+
+Se realizó una consulta del grado del nodo SOFTWARE, obteniendo como resultado 2, debido a que tiene dos hijos: NIVEL1 y NIVEL3.
+
+![Grado de SOFTWARE](evidencias/03_grado_software.png)
+
+
+
+## 10. Repositorio y control de versiones
+
+El proyecto se encuentra publicado en un repositorio público de GitHub.
+
+**Repositorio:**
+https://github.com/geovanny1235/T6-ArbolBinario-VillacisHector
+
+**Rama principal:** main
+
+### Historial de cambios
+
+El proyecto utiliza Git para registrar los cambios realizados.
+
+**Primer commit: Initial commit**
+
+Se incorporaron las clases Java necesarias para implementar el árbol binario, junto con el README y los archivos iniciales de documentación.
+
+**Segundo commit: Agregar evidencias de ejecucion y casos de prueba**
+
+Se añadieron tres capturas que muestran la visualización del árbol binario, los resultados de las pruebas obligatorias y la consulta del grado del nodo SOFTWARE.
+
+**Actualización de documentación**
+
+Se mejoró el README para incluir las evidencias gráficas, actualizar la organización del proyecto y documentar los resultados obtenidos.
 
 ## 11. Restricciones de la actividad
 
